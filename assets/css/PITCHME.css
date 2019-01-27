@@ -26,3 +26,32 @@
   color: white;
   font-weight: bold;
 }
+
+.reveal section h1 {
+  text-transform: none
+}
+
+.reveal section h2 {
+  text-transform: none
+}
+
+.reveal section h3 {
+  text-transform: none
+}
+
+.reveal section h4 {
+  text-transform: none
+}
+
+.reveal section h5 {
+  text-transform: none
+}
+
+.reveal section h6 {
+  text-transform: none
+}
+
+.lighter-background {
+  text: #1a1a1a;
+  background-color: #f2f2f2
+}
